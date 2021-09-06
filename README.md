@@ -13,11 +13,14 @@
 
 “Briksha” is an app designed for the facilitation of farmers (especially in Nepal) who suffer from annual losses due to the disease that infects their crops. Using our app, farmers can easily detect the disease that has damaged the crops just by clicking a picture, and implement the possible remedy to the problems as directed in the app. Currently, Briksha can detect different types of disease that have infected apples, strawberries, grapes, corn, tomato, potato- the most common crops cultivated in Nepal.
 
-**video link here**
+
+https://user-images.githubusercontent.com/53575561/132201972-f5bff140-5390-4265-94a3-8b567b203b39.mp4
+
+
 
 ## App
 
-#### Download Product Apk **[here](app link here)**
+#### Download Product Apk **[here](https://tiny.cc/brikshaapp)**
 
 ## Installation
 
