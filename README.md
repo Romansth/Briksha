@@ -11,7 +11,7 @@
 
 ## Description
 
-“Briksha,” as a part of i-Fit Challenge, is an app designed for the facilitation of farmers (especially in Nepal) who suffer from annual losses due to the disease that infects their crops. Using our app, farmers can easily detect the disease that has damaged the crops just by clicking a picture, and implement the possible remedy to the problems as directed in the app. Currently, Briksha can detect different types of disease that have infected apples, strawberries, grapes, corn, tomato, potato- the most common crops cultivated in Nepal.
+“Briksha” is an app designed for the facilitation of farmers (especially in Nepal) who suffer from annual losses due to the disease that infects their crops. Using our app, farmers can easily detect the disease that has damaged the crops just by clicking a picture, and implement the possible remedy to the problems as directed in the app. Currently, Briksha can detect different types of disease that have infected apples, strawberries, grapes, corn, tomato, potato- the most common crops cultivated in Nepal.
 
 **video link here**
 
@@ -23,7 +23,7 @@
 
 ### Clone the repo
 ```bash
-git clone https://github.com/sovitpy/Briksha.git
+git clone https://github.com/Romansth/Briksha.git
 ```
 ### Build and run apk
 ```dart
@@ -49,7 +49,7 @@ python3 app.py
 
 ## Contributing
 
-Contributions are always welcome. See [contribution guidelines](https://github.com/sovitpy/Briksha/blob/main/CONTRIBUTING.md) if you'd like to submit a PR.
+Contributions are always welcome. See [contribution guidelines](https://github.com/Romansth/Briksha/blob/main/CONTRIBUTING.md) if you'd like to submit a PR.
 
 ## License
 Usage is provided under the [MIT License](http://http//opensource.org/licenses/mit-license.php). See LICENSE for the full details.
